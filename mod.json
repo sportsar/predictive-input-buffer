@@ -1,11 +1,10 @@
 {
-	"geode": "5.11.2",
-	"gd": {
-		"win": "2.2081"
-	},
-	"version": "v1.0.0",
-	"id": "ai.predictivebuffer",
-	"name": "Predictive Input Buffer",
-	"developer": "lilWC",
-	"description": "Trajectory-based 1-2 frame press and wave release input buffer."
+    "geode": "3.0.0-beta.1",
+    "id": "sportsar.predictable_input_buffer",
+    "name": "Predictable Input Buffer",
+    "developer": "sportsar",
+    "version": "1.0.0",
+    "description": "Custom input frame buffering override for testing tight demon timings.",
+    "dependencies": [],
+    "settings": {}
 }
