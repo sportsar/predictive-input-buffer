@@ -1,5 +1,5 @@
 {
-    "geode": "2.0.0",
+    "geode": "v2.0.0-beta.7",
     "id": "sportsar.predictable_input_buffer",
     "name": "Predictable Input Buffer",
     "developer": "sportsar",
